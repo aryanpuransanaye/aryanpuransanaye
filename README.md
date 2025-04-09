@@ -7,6 +7,7 @@
 
 ### About Me
 
+- Master's Student in Software Engineering
 - Backend Developer using Django and Django REST Framework  
 - Passionate about teaching, coding, and clean backend architecture  
 - Python Instructor & Programming Teacher  
@@ -33,6 +34,15 @@ Here are some of the repositories I've worked on recently:
 
 ---
 
+### Education
+
+- B.Sc. in Computer Engineering  
+  *Islamic Azad University, Gorgan*  
+  Graduated in 2024
+- M.Sc. in Software Engineering  
+  *Islamic Azad University, Tehran North Branch (IAUTN)*  
+  Currently enrolled
+  
 ---
 
 ### Connect with Me
