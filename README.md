@@ -7,9 +7,9 @@
 
 ### About Me
 
-- Python Instructor & Programming Teacher  
 - Backend Developer using Django and Django REST Framework  
 - Passionate about teaching, coding, and clean backend architecture  
+- Python Instructor & Programming Teacher  
 - Always open to collaboration and sharing knowledge
 
 ---
