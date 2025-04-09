@@ -56,7 +56,7 @@ Here are some of the repositories I've worked on recently:
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://discord.com/users/801045534483546133" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-ffffff?style=for-the-badge&logo=Discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-E4405F?style=for-the-badge&logo=Discord&logoColor=white" />
   </a>
 </p>
 
