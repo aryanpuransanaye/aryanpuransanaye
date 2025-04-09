@@ -5,7 +5,7 @@
 
 ---
 
-### About Me
+### 👤About Me
 
 - Master's Student in Software Engineering
 - Backend Developer using Django and Django REST Framework  
@@ -15,7 +15,7 @@
 
 ---
 
-### Skills
+### 🛠️Skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -25,7 +25,7 @@
 
 ---
 
-### My Projects
+### 💻My Projects
 
 Here are some of the repositories I've worked on recently:
 
@@ -34,7 +34,7 @@ Here are some of the repositories I've worked on recently:
 
 ---
 
-### Education
+### 📚Education
 
 - B.Sc. in Computer Engineering  
   *Islamic Azad University, Gorgan*  
@@ -45,7 +45,7 @@ Here are some of the repositories I've worked on recently:
   
 ---
 
-### Connect with Me
+### ☎️Connect with Me
 
 <p align="left">
   <a href="https://www.instagram.com/arypnsy" target="_blank">
