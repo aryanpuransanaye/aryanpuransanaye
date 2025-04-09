@@ -41,7 +41,7 @@ Here are some of the repositories I've worked on recently:
   *Islamic Azad University, Gorgan*  
   Graduated in 2024
 - M.Sc. in Software Engineering  
-  *Islamic Azad University, Tehran North Branch (IAUTN)*  
+  *Islamic Azad University, Tehran Shomal*  
   Currently enrolled
   
 ---
