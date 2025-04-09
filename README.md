@@ -24,6 +24,17 @@
 
 ---
 
+### My Projects
+
+Here are some of the repositories I've worked on recently:
+
+- [**NetStore**](https://github.com/aryanpuransanaye/net-store)  
+  A full-featured e-commerce web application built with Django. Includes user authentication, product management, shopping cart, and order system.
+
+---
+
+---
+
 ### Connect with Me
 
 <p align="left">
