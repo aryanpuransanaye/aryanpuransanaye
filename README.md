@@ -35,7 +35,7 @@ Here are some of the repositories I've worked on recently:
 
 ---
 
-### 📚Education
+### 🎓Education
 
 - B.Sc. in Computer Engineering  
   *Islamic Azad University, Gorgan*  
