@@ -22,6 +22,8 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Tkinter-1f1f1f?style=for-the-badge&logo=tkinter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+
 </p>
 
 ---
