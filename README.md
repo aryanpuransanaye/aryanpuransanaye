@@ -8,9 +8,9 @@
 ### 👤About Me
 
 - Master's Student in Software Engineering
-- Backend Developer using Django and Django REST Framework  
-- Passionate about teaching, coding, and clean backend architecture  
-- Python Instructor & Programming Teacher  
+- Junior Backend Developer using Django and Django REST Framework  
+- Passionate about teaching, clean coding, and learning  
+- Python Instructor  
 - Always open to collaboration and sharing knowledge
 
 ---
