@@ -63,7 +63,7 @@ class AryanPuranSanaye:
             "LinkedIn":  "https://www.linkedin.com/in/aryan-puransanaye/",
             "Instagram": "https://www.instagram.com/arypnsy",
             "Discord":   "https://discord.com/users/801045534483546133",
-            # "GitHub":  "https://github.com/aryanpuransanaye"
+            "GitHub":  "https://github.com/aryanpuransanaye"
         }
 
     # ──────────────────────────────────────────────────────────────────────
