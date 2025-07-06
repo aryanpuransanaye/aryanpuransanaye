@@ -1,6 +1,6 @@
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=3DB2FF&center=true&vCenter=true&width=435&lines=Hi!+I'm+Aryan;Love+to+Code+and+Teach" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi there!+I'm+Aryan 🙋🏻‍♂️;Love+to+Code+and+Teach" alt="Typing SVG" />
 </p>
 
 ---
@@ -8,7 +8,7 @@
 ### 👤About Me
 
 - Master's Student in Software Engineering
-- Junior Backend Developer using Django and Django REST Framework  
+- Junior Python Developer
 - Passionate about teaching, clean coding, and learning  
 - Always open to collaboration and sharing knowledge
 
