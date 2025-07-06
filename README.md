@@ -5,22 +5,25 @@
 ```python
 class AryanPuranSanaye:
     """
-    Hi, I’m Aryan — a Python‑loving software developer from Iran.
+    Hi, I’m Aryan from Iran.
 
-    • MSc student in Software Engineering  
-    • Junior Python Developer (Django / DRF)  
-    • Fan of clean, well‑structured code and lifelong learning  
+    • Junior Python Developer  
+    • Passionate about teaching, clean coding, and learning
+    • A fan of clean, well-structured code, passionate about teaching, and committed to               lifelong learning.
+    • Master's Student in Software Engineering 
     """
 
     # ──────────────────────────────────────────────────────────────────────
     # INITIALISATION
     # ──────────────────────────────────────────────────────────────────────
+
     def __init__(self) -> None:
-        self.name = "Aryan Puran Sanaye"
+        self.full_name = "Aryan PuranSanaye"
         self.title = (
-            "Junior Python Developer  |  MSc Software Engineering Student"
+            "Junior Python Developer  |  Python Instructor"
         )
 
+        #My Skills 🤹
         self.skills = {
             "Languages":  ["Python"],
             "Frameworks": ["Django", "Django REST Framework"],
@@ -28,6 +31,7 @@ class AryanPuranSanaye:
             "Paradigms":  ["OOP", "Clean Code"],
         }
 
+        #My Projects 💻
         self.projects = {
             "NetStore":
                 "Full‑featured e‑commerce web app built with Django.",
@@ -35,6 +39,14 @@ class AryanPuranSanaye:
                 "Always learning and building something new…",
         }
 
+        #My Goals 🎯
+        self.goals = {
+        "Django": "Improve my expertise in Django and build more scalable web applications.",
+        "Python": "Deepen my understanding of Python, including advanced concepts.",
+        "Teaching": "Enhance my teaching skills to better support and inspire students."
+        }
+
+        #My Educational Wxperience 🎓
         self.education = {
             "MSc in Software Engineering": {
                 "university": "Islamic Azad University, Tehran Shomal",
@@ -46,6 +58,7 @@ class AryanPuranSanaye:
             },
         }
 
+        #Let's Connect 🛜
         self.contacts = {
             "LinkedIn":  "https://www.linkedin.com/in/aryan-puransanaye/",
             "Instagram": "https://www.instagram.com/arypnsy",
@@ -56,6 +69,7 @@ class AryanPuranSanaye:
     # ──────────────────────────────────────────────────────────────────────
     # PUBLIC METHODS
     # ──────────────────────────────────────────────────────────────────────
+
     def run(self) -> None:
         """Pretty‑prints profile info to the console."""
 
@@ -95,5 +109,6 @@ class AryanPuranSanaye:
 # ──────────────────────────────────────────────────────────────────────
 # SCRIPT ENTRY‑POINT
 # ──────────────────────────────────────────────────────────────────────
+
 if __name__ == "__main__":
     AryanPuranSanaye().run()
