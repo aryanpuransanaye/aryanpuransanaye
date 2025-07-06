@@ -5,12 +5,12 @@
 ```python
 class AryanPuranSanaye:
     """
-    Hi, I’m Aryan from Iran.
-
+    • From Iran.
     • Junior Python Developer  
     • Passionate about teaching, clean coding, and learning
-    • A fan of clean, well-structured code, passionate about teaching, and committed to               lifelong learning.
-    • Master's Student in Software Engineering 
+    • A fan of clean, well-structured code, passionate about teaching, and committed to lifelong learning.
+    • Master's Student in Software Engineering
+
     """
 
     # ──────────────────────────────────────────────────────────────────────
