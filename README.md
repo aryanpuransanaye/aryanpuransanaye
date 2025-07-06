@@ -5,7 +5,7 @@
 
 ---
 
-### 👤About Me
+```python
 # Master's Student in Software Engineering
 # Junior Python Developer
 # Passionate about teaching, clean coding, and learning
