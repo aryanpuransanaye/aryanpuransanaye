@@ -23,7 +23,7 @@ class AryanPuranSanaye:
             "Junior Python Developer  |  Python Instructor"
         )
 
-        #My Skills 🤹
+        # My Skills 🤹
         self.skills = {
             "Languages":  ["Python"],
             "Frameworks": ["Django", "Django REST Framework"],
@@ -31,7 +31,7 @@ class AryanPuranSanaye:
             "Paradigms":  ["OOP", "Clean Code"],
         }
 
-        #My Projects 💻
+        # My Projects 💻
         self.projects = {
             "NetStore":
                 "Full‑featured e‑commerce web app built with Django.",
@@ -39,14 +39,14 @@ class AryanPuranSanaye:
                 "Always learning and building something new…",
         }
 
-        #My Goals 🎯
+        # My Goals 🎯
         self.goals = {
         "Django": "Improve my expertise in Django and build more scalable web applications.",
         "Python": "Deepen my understanding of Python, including advanced concepts.",
         "Teaching": "Enhance my teaching skills to better support and inspire students."
         }
 
-        #My Educational Wxperience 🎓
+        # My Educational Experience 🎓
         self.education = {
             "MSc in Software Engineering": {
                 "university": "Islamic Azad University, Tehran Shomal",
@@ -58,7 +58,7 @@ class AryanPuranSanaye:
             },
         }
 
-        #Let's Connect 🛜
+        # Let's Connect 🛜
         self.contacts = {
             "LinkedIn":  "https://www.linkedin.com/in/aryan-puransanaye/",
             "Instagram": "https://www.instagram.com/arypnsy",
