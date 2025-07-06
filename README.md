@@ -1,68 +1,63 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Hi+there!+I%27m+Aryan;Love+to+Code+and+Teach" alt="Typing SVG" />
-</p>
+```python
+# 👋 Hi there! I'm Aryan
+
+# Master's Student in Software Engineering
+# Junior Python Developer
+# Passionate about teaching, clean coding, and learning
+# Always open to collaboration and sharing knowledge
 
 
----
+skills = [
+    "Python",
+    "Django",
+    "Django REST Framework",
+    "Telegram Bot",
+    "Tkinter",
+]
 
-### 👤About Me
+projects = {
+    "NetStore": "A full-featured e-commerce web app with Django, "
+                "including user authentication, product management, "
+                "shopping cart, and order system."
+}
 
-- Master's Student in Software Engineering
-- Junior Python Developer
-- Passionate about teaching, clean coding, and learning  
-- Always open to collaboration and sharing knowledge
+education = {
+    "BSc": {
+        "field": "Computer Engineering",
+        "university": "Islamic Azad University, Gorgan",
+        "year": 2024,
+    },
+    "MSc": {
+        "field": "Software Engineering",
+        "university": "Islamic Azad University, Tehran Shomal",
+        "status": "Currently enrolled",
+    }
+}
 
----
+contacts = {
+    "Instagram": "https://www.instagram.com/arypnsy",
+    "LinkedIn": "https://www.linkedin.com/in/aryan-puransanaye/",
+    "Discord": "https://discord.com/users/801045534483546133",
+}
 
-### 🛠️Skills
+def main():
+    print("Skills:")
+    for skill in skills:
+        print(f" - {skill}")
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tkinter-1f1f1f?style=for-the-badge&logo=tkinter&logoColor=white" />
+    print("\nProjects:")
+    for name, desc in projects.items():
+        print(f" - {name}: {desc}")
 
-</p>
+    print("\nEducation:")
+    for degree, info in education.items():
+        print(f" - {degree} in {info['field']} from {info['university']} ({info.get('year', info.get('status'))})")
 
----
+    print("\nContact me:")
+    for platform, url in contacts.items():
+        print(f" - {platform}: {url}")
 
-### 💻My Projects
+    print("\nThanks for visiting my profile!")
 
-Here are some of the repositories I've worked on recently:
-
-- [**NetStore**](https://github.com/aryanpuransanaye/net-store)  
-  A full-featured e-commerce web application built with Django. Includes user authentication, product management, shopping cart, and order system.
-
----
-
-### 🎓Education
-
-- B.Sc. in Computer Engineering  
-  *Islamic Azad University, Gorgan*  
-  Graduated in 2024
-- M.Sc. in Software Engineering  
-  *Islamic Azad University, Tehran Shomal*  
-  Currently enrolled
-  
----
-
-### ☎️Connect with Me
-
-<p align="left">
-  <a href="https://www.instagram.com/arypnsy" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/aryan-puransanaye/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/801045534483546133" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  Thanks for visiting my profile!
-</p>
+if __name__ == "__main__":
+    main()
