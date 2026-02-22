@@ -1,113 +1,54 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Hi+there!+I%27m+Aryan;Love+to+Code+and+Teach" alt="Typing SVG" />
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+</div>
+
+---
+
+<div align="center">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aryan&" />
+</div>
+
+---
+
+<h1 align="center">Hey there 👋 I'm Aryan</h1>
+
+---
+
+<h3 align="left">👨‍💻 About Me</h3>
+
+<p align="left">
+I'm Aryan from Iran 🇮🇷 <br><br>
+- 🔭 Back-end Developer <br>
+- 🐍 Main language: Python <br>
+- ⚡ Working with Django & DRF <br>
+- 🌱 Familiar with JavaScript <br>
+- 🖥 Worked with Vue & Nuxt <br>
 </p>
 
-```python
-class AryanPuranSanaye:
-    """
-    • From Iran
-    • Junior Python Developer  
-    • A fan of clean, well-structured code, passionate about teaching, and committed to lifelong learning.
-    • Master's Student in Software Engineering
+---
 
-    """
+<h3 align="left">🛠 Languages & Tools</h3>
 
-    # ──────────────────────────────────────────────────────────────────────
-    # INITIALISATION
-    # ──────────────────────────────────────────────────────────────────────
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" />
+</div>
 
-    def __init__(self) -> None:
-        self.full_name = "Aryan PuranSanaye"
-        self.title = (
-            "Junior Python Developer  |  Python Instructor"
-        )
+---
 
-        # My Skills 🤹
-        self.skills = {
-            "Languages":  ["Python"],
-            "Frameworks": ["Django", "Django REST Framework"],
-            "Libraries":  ["python-telegram-bot", "Tkinter"],
-            "Paradigms":  ["OOP", "Clean Code"],
-        }
+<h3 align="left">🔥 My Stats</h3>
 
-        # My Projects 💻
-        self.projects = {
-            "NetStore":
-                "Full‑featured e‑commerce web app built with Django.",
-            "Future Project":
-                "Always learning and building something new…",
-        }
-
-        # My Goals 🎯
-        self.goals = {
-        "Django": "Improve my expertise in Django and build more scalable web applications.",
-        "Python": "Deepen my understanding of Python, including advanced concepts.",
-        "Teaching": "Enhance my teaching skills to better support and inspire students."
-        }
-
-        # My Educational Experience 🎓
-        self.education = {
-            "MSc in Software Engineering": {
-                "university": "Islamic Azad University, Tehran Shomal",
-                "status": "Currently enrolled",
-            },
-            "BSc in Computer Engineering": {
-                "university": "Islamic Azad University, Gorgan",
-                "status": "Graduated 2024",
-            },
-        }
-
-        # Let's Connect 🛜
-        self.contacts = {
-            "LinkedIn":  "https://www.linkedin.com/in/aryan-puransanaye/",
-            "Instagram": "https://www.instagram.com/arypnsy",
-            "Discord":   "https://discord.com/users/801045534483546133",
-            "GitHub":  "https://github.com/aryanpuransanaye"
-        }
-
-    # ──────────────────────────────────────────────────────────────────────
-    # PUBLIC METHODS
-    # ──────────────────────────────────────────────────────────────────────
-
-    def run(self) -> None:
-        """Pretty‑prints profile info to the console."""
-
-        print(">>> import profile from aryan_puran_sanaye")
-        print(">>> profile.run()\n")
-
-        # About
-        print("--- About Me ---")
-        print(self.__doc__.strip())
-
-        # Skills
-        print("\n--- Technical Skills ---")
-        for cat, items in self.skills.items():
-            print(f"{cat:<10}: {', '.join(items)}")
-
-        # Education
-        print("\n--- Education ---")
-        for degree, info in self.education.items():
-            uni = info["university"]
-            stat = info["status"]
-            print(f"- {degree}  —  {uni}  ({stat})")
-
-        # Projects
-        print("\n--- Projects ---")
-        for name, desc in self.projects.items():
-            print(f"- {name}: {desc}")
-
-        # Contacts
-        print("\n--- Connect With Me ---")
-        for platform, url in self.contacts.items():
-            print(f"- {platform}: {url}")
-
-        print("\n# Process finished with exit code 0")
-        print("# Thanks for visiting!\n")
-
-
-# ──────────────────────────────────────────────────────────────────────
-# SCRIPT ENTRY‑POINT
-# ──────────────────────────────────────────────────────────────────────
-
-if __name__ == "__main__":
-    AryanPuranSanaye().run()
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=aryanpuransanaye&theme=dark&hide_border=false&border_radius=5" height="220" />
+</div>
