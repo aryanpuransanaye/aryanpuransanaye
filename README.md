@@ -62,7 +62,7 @@ Maybe one day I'll officially call myself a Fullstack Developer 🚀
 
 <b>💼 Backend Developer – Varkan Group</b><br>
 • Designing and developing scalable backend systems using Django & DRF<br>
-• Working with PostgreSQL and RESTful APIs<br>
+• Building and maintaining RESTful APIs and integrating them with frontend applications<br>
 
 </p>
 
