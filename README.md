@@ -57,7 +57,7 @@ Maybe one day I'll officially call myself a Fullstack Developer 🚀
 • Taught Python programming at Shetab Amoz Institute<br>
 • Taught Python programming at SepehrTech Institute<br><br>
 
-<b>🤖 Backend Developer – Metzon</b><br>
+<b>🤖 Telegram Bot Developer – Metzon</b><br>
 • Developed a Telegram bot that integrated with external APIs to automate transactions and manage data efficiently<br><br>
 
 <b>💼 Backend Developer – Varkan Group</b><br>
