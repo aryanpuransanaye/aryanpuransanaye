@@ -49,7 +49,8 @@ Currently, I work as a Software Developer at Varkan Group, contributing to both 
 
 <b>Backend Developer – Varkan Group</b><br>
 • Designing and developing scalable backend systems using Django & DRF<br>
-• Building and maintaining RESTful APIs and integrating them with frontend applications<br>
+• Develop and integrate frontend features
+• Deploy and maintain applications on Linux servers<br>
 
 </p>
 
