@@ -4,20 +4,6 @@
 
 ---
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/aryanpuransanaye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryanpuransanaye" height="30" width="40" /></a>
-<a href="https://instagram.com/arypnsy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arypnsy" height="30" width="40" /></a>
-<a href="https://discord.gg/epwav2nz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="arypnsy" height="30" width="40" /></a>
-</p>
-<p align="center">
-<a href="mailto:aryanpuransanayeh@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-aryanpuransanayeh%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-</p>
-
----
-
 <h3 align="left">About Me</h3>
 
 <p align="left">
@@ -68,3 +54,17 @@ Currently, I work as a Software Developer at Varkan Group, contributing to both 
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/> 
 </p>
+
+---
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/aryanpuransanaye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryanpuransanaye" height="30" width="40" /></a>
+<a href="https://discord.gg/epwav2nz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="arypnsy" height="30" width="40" /></a>
+</p>
+<p align="center">
+<a href="mailto:aryanpuransanayeh@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-aryanpuransanayeh%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+</p>
+
