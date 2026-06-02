@@ -17,7 +17,6 @@ Currently, I work as a Software Developer at Varkan Group, contributing to both 
 <p align="left">
 • Reach a solid mid-level Backend Developer skillset<br>
 • Improve my Frontend development skills<br>
-• Build complete end-to-end applications on my own 🚀
 </p>
 
 ---
@@ -35,7 +34,7 @@ Currently, I work as a Software Developer at Varkan Group, contributing to both 
 
 <b>Backend Developer – Varkan Group</b><br>
 • Designing and developing scalable backend systems using Django & DRF<br>
-• Develop and integrate frontend features
+• Develop and integrate frontend features<br>
 • Deploy and maintain applications on Linux servers<br>
 
 </p>
